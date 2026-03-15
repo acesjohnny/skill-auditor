@@ -1,0 +1,38 @@
+{
+  "name": "skill-auditor",
+  "version": "1.0.0",
+  "description": "Audit OpenClaw/Claude/OpenAI-style skills for security, specification compliance, and installability. Produces risk-assessed audit reports with actionable recommendations.",
+  "author": "Johnny",
+  "license": "MIT",
+  "tags": ["security", "audit", "skill-review", "risk-assessment", "safety"],
+  "repository": "https://github.com/YOUR_GITHUB_USERNAME/skill-auditor",
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/skill-auditor",
+  "skills": [
+    {
+      "name": "skill-auditor",
+      "path": "./SKILL.md"
+    }
+  ],
+  "references": [
+    {
+      "name": "checklist",
+      "path": "./references/checklist.md"
+    },
+    {
+      "name": "red-flags",
+      "path": "./references/red-flags.md"
+    },
+    {
+      "name": "high-risk-domains",
+      "path": "./references/high-risk-domains.md"
+    },
+    {
+      "name": "examples-zh",
+      "path": "./references/examples-zh.md"
+    },
+    {
+      "name": "examples-en",
+      "path": "./references/examples-en.md"
+    }
+  ]
+}
